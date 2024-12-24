@@ -1,1 +1,5 @@
-# rajarshidatta25.github.io
+# Data Scientist
+### Education 
+Civil Engineering, PhD
+
+### Work Experience
